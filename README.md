@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alejandro Cardenas</h1>
-<h3 align="center">Have Fun and Enjoy</h3>
 
 🔭  I’m currently learning **Flutter and Python**
 
