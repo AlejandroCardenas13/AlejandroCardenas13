@@ -1,10 +1,17 @@
-<h1 align="center">Hi 👋, I'm Alejandro Cardenas</h1>
+<h1 align="center">Hi 👋, I'm Alejandro C</h1>
 
 🔭  I’m currently learning **Flutter and Python**
 
 📫  How to reach me **alejocardenas14@gmail.com**
 
-⚡ Fun fact: **I like anime 🇯🇵 comics 🎯 reading 🛸 little puppies 🐶**
+**⚡ Fun facts:** 
+**Anime 🇯🇵** 
+**Comics 🎯**
+**Read 🛸**
+**Dogs 🐶**
+**Robots 🤖**
+**AI 👾**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,5 +28,3 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCardenas13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alejandrocardenas13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?alejandrocardenas13=willianrod)](https://github.com/anuraghazra/github-readme-stats)
