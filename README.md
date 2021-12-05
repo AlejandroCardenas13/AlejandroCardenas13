@@ -21,3 +21,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlejandroCardenas13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=alejandrocardenas13&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?alejandrocardenas13=willianrod)](https://github.com/anuraghazra/github-readme-stats)
